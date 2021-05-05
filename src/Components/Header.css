@@ -9,6 +9,7 @@
     place-items: center;
     width:100%;
     z-index: 999;
+    background-color: white;
 }
 .header__left{
     display:flex;
